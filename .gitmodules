@@ -1,0 +1,4 @@
+[submodule "WVUClimbingClub/public"]
+	path = WVUClimbingClub/public
+	url = https://github.com/gpk00003/WVUClimbingClub.github.io
+	branch = main
