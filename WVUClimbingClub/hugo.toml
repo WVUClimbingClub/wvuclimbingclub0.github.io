@@ -1,0 +1,4 @@
+baseURL = 'http://WVUClimbingClub.github.io'
+languageCode = 'en-us'
+title = 'WVU Climbing Club'
+theme = 'Paige'
